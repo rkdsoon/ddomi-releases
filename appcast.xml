@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ddomi</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 02 Nov 2026 00:20:54 +0900</pubDate>
+            <link>https://github.com/rkdsoon/ddomi-releases/releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rkdsoon/ddomi-releases/releases/download/v0.2.0/ddomi-0.2.0.zip" length="18920336" type="application/octet-stream" sparkle:edSignature="n88cDggZKTBYyZppDMfI3vyr2YqvfmmSVAwoCGcyWewRBoHbJAHxeabhY+EwuAJUjRvVee7UrHtuXJLXh8qrAQ=="/>
+        </item>
+    </channel>
+</rss>
