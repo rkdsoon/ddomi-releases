@@ -3,6 +3,15 @@
     <channel>
         <title>ddomi</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Mon, 02 Nov 2026 13:55:31 +0900</pubDate>
+            <link>https://github.com/rkdsoon/ddomi-releases/releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rkdsoon/ddomi-releases/releases/download/v0.3.1/ddomi-0.3.1.zip" length="19287350" type="application/octet-stream" sparkle:edSignature="yM/l6zepr7MTloAruVTLdt46UqdrAM6gchmcNeBl/DWxWwnDylubuAjmZygU3Paqm3ykCd3OKuP7IfV75uH7DA=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Mon, 02 Nov 2026 13:43:06 +0900</pubDate>
             <link>https://github.com/rkdsoon/ddomi-releases/releases</link>
