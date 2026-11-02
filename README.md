@@ -68,10 +68,10 @@ A sticky-note window appears near the top-right corner of your screen, and a sma
 
 ## Pair with your buddy
 
-You pair once per room. Both of you need ddomi open.
+The first thing ddomi shows you — on first launch, or whenever you press **+** for another room — is two equal choices: **Create a room** or **Join with a code**. Pick whichever fits what you've got; both of you need ddomi open.
 
-1. One of you clicks **Create a code** and gets a 6-character code. **Copy** it and send it over any way you like: a message, a shout across the room.
-2. The other clicks **Enter a code**, types or pastes it in, and presses Return.
+1. **No code yet?** Click **Create a room**. You get a 6-character code and a **Send** button that opens the normal macOS share sheet, so you can hand it straight to your buddy over Messages, Mail or AirDrop. **Copy** still works if you'd rather paste it yourself.
+2. **Got a code from your buddy?** Click **Join with a code**, type or paste it in, and press Return.
 3. Both of you see **Connected with your buddy**, and ddomi asks what you call this person. The nickname stays on your Mac; your buddy never sees it, and you can change it later.
 
 A code works for 24 hours and for one buddy, so pair soon after creating one. If it expires, just create a new one.
@@ -146,7 +146,7 @@ The server is a Firebase project run by the author. There is no web version and 
 
 **The keychain dialog keeps appearing.** Choose **Always Allow**, not **Allow**.
 
-**My buddy's code says it has expired.** Codes last 24 hours. Ask them to click **Create a code** again and send the new one.
+**My buddy's code says it has expired.** Codes last 24 hours. Ask them to click **Create a room** again and send the new code.
 
 **After an update it forgot our pair.** Click **Reconnect**. It restores the pairing without a new code.
 
@@ -218,10 +218,10 @@ xattr -dr com.apple.quarantine /Applications/ddomi.app
 
 ### 친구와 연결하기
 
-방마다 한 번만 연결하면 됩니다. 두 사람 모두 ddomi를 켠 상태여야 합니다.
+ddomi를 처음 열었을 때(또는 **+** 로 새 방을 추가할 때) 가장 먼저 보이는 건 **Create a room**(방 만들기)과 **Join with a code**(코드로 참여) 두 가지, 동급으로 놓인 선택지입니다. 자기 상황에 맞는 쪽을 고르면 되고, 두 사람 모두 ddomi를 켠 상태여야 합니다.
 
-1. 한 사람이 **Create a code**(코드 만들기)를 누르면 6자리 코드가 나옵니다. **Copy**로 복사해서 메시지로 보내든 옆에서 불러 주든 전달합니다.
-2. 다른 사람이 **Enter a code**(코드 입력)를 누르고 코드를 입력하거나 붙여넣은 뒤 Return을 누릅니다.
+1. **코드가 없다면?** **Create a room**을 누르세요. 6자리 코드와 함께 **Send**(보내기) 버튼이 뜨는데, 누르면 macOS 공유 시트가 열려서 메시지·메일·AirDrop으로 바로 친구에게 전달할 수 있습니다. 직접 붙여넣고 싶으면 **Copy**도 그대로 있습니다.
+2. **친구한테 코드를 받았다면?** **Join with a code**를 누르고 코드를 입력하거나 붙여넣은 뒤 Return을 누릅니다.
 3. 둘 다 **Connected with your buddy**(친구와 연결됨)가 보이면 성공입니다. 이어서 상대를 뭐라고 부를지 묻는데, 이 별명은 내 맥에만 저장되고 상대에게는 보이지 않습니다. 나중에 바꿀 수 있습니다.
 
 코드는 **24시간** 동안, 한 사람에게만 유효합니다. 만들고 나서 바로 연결하세요. 만료되면 새로 만들면 됩니다.
@@ -298,7 +298,7 @@ ddomi는 켜져 있는 동안 몇 시간에 한 번씩 이 저장소에서 새 �
 
 **키체인 창이 계속 떠요.** **허용**이 아니라 **항상 허용**을 누르세요.
 
-**코드가 만료됐다고 나와요.** 코드는 24시간만 유효합니다. 친구에게 **Create a code**를 다시 눌러 새 코드를 보내 달라고 하세요.
+**코드가 만료됐다고 나와요.** 코드는 24시간만 유효합니다. 친구에게 **Create a room**을 다시 눌러 새 코드를 보내 달라고 하세요.
 
 **업데이트 후 연결이 사라졌어요.** **Reconnect**(다시 연결)를 누르세요. 새 코드 없이 연결을 복구합니다.
 
