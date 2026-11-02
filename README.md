@@ -156,10 +156,6 @@ The server is a Firebase project run by the author. There is no web version and 
 
 **Something else?** Open an issue in this repository and describe what you saw.
 
-## Credits
-
-Korean words are set in HippieChe (히피체), a typeface bundled with the app. Updates are delivered with Sparkle.
-
 ---
 
 ## 한국어 안내
@@ -311,7 +307,3 @@ ddomi는 켜져 있는 동안 몇 시간에 한 번씩 이 저장소에서 새 �
 **처음부터 다시 하고 싶어요.** 탭마다 우클릭 → **Leave room**으로 나간 뒤, 새 코드로 다시 연결하세요.
 
 **다른 문제가 있나요?** 이 저장소에 이슈를 남겨 주세요. 어떤 화면에서 무엇을 봤는지 적어 주시면 도움이 됩니다.
-
-### 만든 사람의 말
-
-ddomi는 한 사람이 취미로 만드는 앱입니다. 한글 단어는 함께 들어 있는 히피체로 표시되고, 업데이트는 Sparkle로 전달됩니다. 소스 코드는 별도의 비공개 저장소에 있습니다.
